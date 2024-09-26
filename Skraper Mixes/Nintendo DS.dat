@@ -1,0 +1,1071 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+  <header>
+    <name>Nintendo DS</name>
+    <description>Information from ScreenScraper.fr database</description>
+    <version>1.0</version>
+    <date>6/09/2024 3:41 PM</date>
+    <author>Skraper</author>
+    <url>http://www.screenscraper.fr</url>
+  </header>
+  <game name="Mega Man Zero Collection">
+    <description>Mega Man Zero Collection is a set of all four games in the Mega Man Zero series on a single game cart.  It includes:
+
+Mega Man Zero
+Mega Man Zero 2
+Mega Man Zero 3
+Mega Man Zero 4
+
+In addition to the four games, Mega Man Zero Collection also features an art gallery with works from the games in the series.  The e-Reader cards that were exclusive to the Japanese version of Mega Man Zero 3 and provided in-game enhancements are now discoverable throughout that game as collectibles.  There is also the option to play through all four games in one continuous playthrough, rather than having to select each game individually.  Finally, an included "Easy Mode" makes the game more accessible to those not used to the game's tough difficulty level.</description>
+    <year>2010</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="Mega Man Zero Collection.nds" size="67108864" />
+  </game>
+  <game name="Pokémon Platinum Version">
+    <description>ANOTHER WORLD HAS EMERGED IN THE SINNOH REGION...&#xD;
+...A world where time and space are altered!&#xD;
+Catch, train and battle your favorite Pokémon, and discover ancient, mythical Pokémon in this exciting new adventure!&#xD;
+&#xD;
+NEW DISCOVERIES, NEW CHALLENGES!&#xD;
+&#xD;
+EXPANDED ONLINE OPTIONS!&#xD;
+New experiencs in the Wi-Fi Plaza and Battle Frontier!&#xD;
+*Wireless router and broadband access required for online play.&#xD;
+&#xD;
+-This Platinum version of Pokémon, an extension of the Diamond and Pearl versions, contains new story elements and expanded play features, including different types of Pokémon.&#xD;
+-This game can communicate with the Diamond and Pearl versions and Pokémon Battle Revolution using Nintendo Wi-Fi Connection and DS Wireless Communications.&#xD;
+-This game can also be connected to the Ruby, Sapphire, Emerald, FireRed, and LeafGreen versions of Pokémon using the Dual Slot feature of Nintendo DS or Nintendo DS Lite.</description>
+    <year>2009</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Pokemon - Platinum Version.nds" size="134217728" />
+  </game>
+  <game name="Retro Game Challenge">
+    <description>Arino wants to be the greatest gamer in the world, but he's continually defeated by his friends at every new game that comes out. His obsession has spawned a digital version himself within his own Nintendo DS. This digital version of himself has come to be known as "Game Master Arino", who haunts gamers around the world with retro game challenges. You have been chosen by Game Master Arino, and are now trapped in the 1980s until you can defeat his game challenges.
+
+Retro Game Challenge, based on the Japanese TV show Game Center CX, has you playing faithfully-recreated clones of popular NES-era games, attempting to complete challenges and freeing yourself from Game Master Arino. You are accompanied by Arino himself as a young lad, who will cheer you on as you're playing each game. You can also read the latest gaming mags for tips, cheats, and previews of upcoming titles.
+
+There are eight games total, each modeled after 8-bit classics such as Galaga (Cosmic Gate), Dragon Warrior (Gaudia Quest), and Ninja Jajamaru-kun (Robot Ninja Haggle Man). Each game has multiple challenges from Arino to complete, such as clearing a certain stage or earning a set number of points, and can also be played in a free play mode once all challenges have been cleared.</description>
+    <year>2009</year>
+    <manufacturer>Xseed Games</manufacturer>
+    <rom name="Retro Game Challenge.nds" size="33554432" />
+  </game>
+  <game name="Spider-Man - Shattered Dimensions">
+    <description>Spider-Man: Shattered Dimensions is a thrilling action-packed adventure set in four dramatically different universes from legendary Spider-Man lore, each with a distinct Spider-Man armed with unique skills and strengths, in one original storyline. Players will be transported to new locations never before seen in a Spider-Man game, from lush jungles and dusty deserts to various urban terrains. Acclaimed comic book writer Dan Slott takes players on a mission to contain the magical energy of the Tablet of Order and Chaos, which has been shattered and sent hurtling across parallel universes, and battle fan-favorite villains in a quest to restore the fabric of reality.&#xD;
+</description>
+    <year>2010</year>
+    <manufacturer>Griptonite Games</manufacturer>
+    <rom name="Spider-Man - Shattered Dimensions.nds" size="67108864" />
+  </game>
+  <game name="Super Robot Wars OG Saga : Endless Frontier">
+    <description>Super Robot Taisen OG Saga: Endless Frontier is a unique sci-fi/fantasy RPG that takes players across a variety of worlds, ranging from an apocalyptic wasteland covered with the hulks of downed spaceships to a fantastical place of fairy tales and dark magic. Join Haken Browning: gunslinger, professional bounty hunter, and amateur ladies' man, along with his motley crew of robots, were-beasts, secret agents, and busty princesses as they delve deep into the mysteries of how their worlds came to be and face a threat that imperils the multiverse.</description>
+    <year>2009</year>
+    <manufacturer>Monolith Soft</manufacturer>
+    <rom name="Super Robot Taisen OG Saga - Endless Frontier.nds" size="134217728" />
+  </game>
+  <game name="SaGa 2 Hihou Densetsu : Goddess of Destiny">
+    <description>SaGa 2: Hihou Densetsu - Goddess of Destiny is a remake of SaGa 2, known as Final Fantasy Legend II in the West. The game featured a completely redone polygonal presentation, new character designs by Gen Kobayashi and several gameplay enhancements.</description>
+    <year>2009</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="SaGa 2 - Legend of the Relics - Goddess of Destiny.nds" size="125207004" />
+  </game>
+  <game name="Sakasete! Chibi-Robo!">
+    <description>In an act of community service, Citrusoft Robotics manufactures a new model of Chibi-Robo, called Blooming Chibi-Robo.</description>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Chibi-Robo! - Park Patrol.nds" size="67108864" />
+  </game>
+  <game name="Pokémon Plus Nobunaga no Yabou">
+    <description>In Pokemon Conquest, players take on the role of a young Warlord who is linked with a Pokemon. Together, they must set out to recruit Warrior allies to strengthen their growing kingdom. Along their journey, players will encounter a variety of Pokemon, as well as Warriors and Warlords inspired by the Japanese feudal era. The game contains nearly 200 Pokemon, including many from the recent Pokemon Black Version and Pokemon White Version games, which have sold more than 4 million copies combined in the United States.&#xD;
+As the battlefield unfolds in Pokemon Conquest, players must choose the correct Pokemon type to inflict maximum damage on their opponents. In the turn-based skirmishes, players choose different tactics for intense six-on-six battles, and battle conditions can change on every turn, keeping players on their toes in anticipation of what will happen next.</description>
+    <year>2012</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Pokemon Conquest.nds" size="268435456" />
+  </game>
+  <game name="Shin Megami Tensei - Devil Survivor">
+    <description>Devil Survivor is set in modern-day Tokyo and follows a 17-year-old student and his friends, who see an outbreak of demons with some of them becoming their allies. The Protagonist also finds he has the ability to see a person's remaining lifespan and decides to work to avoid as many deaths as possible. Devil Survivor is a tactical role-playing video game where the player and computer control a number of squads composed of one leader and two supporting characters. Between combat, the player can explore several districts in Tokyo to either advance the plot by speaking to specific characters, discover new information, or take part in "free battles". The narrative can branch in multiple ways that result in different endings, which depend upon the player's decisions during critical moments throughout the story.</description>
+    <year>2009</year>
+    <manufacturer>Atlus</manufacturer>
+    <rom name="Shin Megami Tensei - Devil Survivor.nds" size="67108864" />
+  </game>
+  <game name="Super Princess Peach">
+    <description>For once, Bowser has changed his tactics. Instead of grabbing the Princess every chance he gets, he's gone straight to the source of all his problems this time around. The two people who always get in his way and halt his chances of owning Mushroom Kingdom all himself. Mario and Luigi are suddenly whisked away, and only one person can save them...
+
+Princess Peach, always the one in distress, will use all her unique abilities and items to travel the length of the Kingdom to save her heroes. Her main attack uses a parasol on enemies, which can also double as the perfect way to float down from the heights. 
+
+Princess Peachs' emotions will also come into play. Make her cry to drench enemies or help plants grow to reach higher ground, meanwhile her happy singing can distract many foes and open up further areas.</description>
+    <year>2006</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Super Princess Peach.nds" size="33554432" />
+  </game>
+  <game name="Super Robot Wars OG Saga: Endless Frontier Exceed">
+    <description>Super Robot Taisen OG Saga: Endless Frontier Exceed is a crossover role-playing video game co-developed by Monolith Soft and Banpresto and published by Namco Bandai Games for the Nintendo DS (DS) in 2010. Forming part of the Super Robot Wars series, Endless Frontier Exceed is a sequel to the 2008 DS game Super Robot Taisen OG Saga: Endless Frontier, carrying over its gameplay elements. &#xD;
+Super Robot Taisen OG Saga: Endless Frontier Exceed is a crossover role-playing video game. Players take control of a party of characters drawn from multiple anime and video game franchises. Gameplay is divided between field navigation, dialogue sections between characters, and turn-based battles where players can expend action points to perform different moves.</description>
+    <year>2010</year>
+    <manufacturer>Bandai Namco</manufacturer>
+    <rom name="Super Robot Taisen OG Saga - Mugen no Frontier.nds" size="268435456" />
+  </game>
+  <game name="Phoenix Wright - Ace Attorney - Justice for All">
+    <description>The second game in the popular court room battle series from Japan introduces four new cases featuring new characters, plot twists and gameplay features. Players resume the role of Phoenix Wright, a defence attorney who must prove his client's innocence against the toughest of odds and most ruthless of adversaries. Players must exercise their legal prowess as they collect evidence, examine witnesses, analyse testimonies and seek the truth to ensure that justice prevails.</description>
+    <year>2007</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="Phoenix Wright - Ace Attorney - Justice for All.nds" size="33554432" />
+  </game>
+  <game name="Fire Emblem : Shadow Dragon">
+    <description>Prince Marth and his band of loyal followers are the last hope in freeing Archanea. Alternate turns with the enemy, and shape up your army to suit your strategy by selecting from dozens of units with unique spells, abilities, and weapons. Each unit has its own strategic benefits, so guide them wisely or risk losing them on the battlefield.</description>
+    <year>2009</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Fire Emblem - Shadow Dragon.nds" size="67108864" />
+  </game>
+  <game name="Castlevania : Dawn of Sorrow">
+    <description>The team that developed Castlevania: Aria of Sorrow returns to bring the sequel, CastleVania: Dawn of Sorrow, to the Nintendo DS. This time, you must infiltrate a castle belonging to a cult that is planning to resurrect Lord Dracula. Castlevania: Dawn of Sorrow lets you defeat evil spirits using the "Magic Seal" system which utilizes the Nintendo DS touch screen. You can trade captured souls with other players using the wireless system as well.</description>
+    <year>2005</year>
+    <manufacturer>Konami</manufacturer>
+    <rom name="Castlevania - Dawn of Sorrow (D-Pad patched).nds" size="67108864" />
+  </game>
+  <game name="Castlevania - Order of Ecclesia">
+    <description>Set in the early 19th century, this installment of the long running Castlevania series takes a slight departure from the typical series storyline. A secret monastic organization, Order of Ecclesia, is charged with finding alternative ways of combating the hordes of undead summoned by the ever-returning evil lord Dracula, as the Belmont clan has apparently gone into hiding. Shanoa, a young acolyte of the Order, is chosen for her extraordinary magical abilities to wield Dominus: the ultimate spell against evil. As she is about to complete the ritual to absorb Dominus a rogue acolyte named Albus steals the three tomes containing the spell. Shanoa is then dispatched to track down Albus and return him and the spell back to the Order.</description>
+    <year>2008</year>
+    <manufacturer>Konami</manufacturer>
+    <rom name="Castlevania - Order of Ecclesia.nds" size="67108864" />
+  </game>
+  <game name="The Sims 2 ">
+    <description>In The Sims 2, you can control your Sims over an entire lifetime for the first time. With the addition of genetics, the game lets your Sims pass their DNA down through generations. Every life choice you make has a relevant and dramatic effect on the lifetime of your Sim. Now it's up to you to take your Sims from the cradle to the grave, while fulfilling their dreams and pushing them to extremes.</description>
+    <year>2005</year>
+    <manufacturer>Maxis Software</manufacturer>
+    <rom name="The Sims 2.nds" size="67108864" />
+  </game>
+  <game name="Dragon Quest IV: Chapters of the Chosen">
+    <description>The Legends of Zenithia starts here!&#xD;
+&#xD;
+A prestigious army captain, an adventurous princess, a humble merchant, two sisters, and you, the hero. Dive into this unique adventure, and discover the grand tale told through the experiences and emotions of characters from all walks of life.</description>
+    <year>2008</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="Dragon Quest IV - Chapters of the Chosen.nds" size="134217728" />
+  </game>
+  <game name="Pokemon - Diamond Version">
+    <description>Welcome to the next generation of Pokémon!&#xD;
+As a rookie Pokémon Trainer, you will need to catch, train, and battle Pokémon on your journey to become the Pokémon League Champion. You will face many challenges along the way, as you search for the Pokémon that rules time in Pokémon Diamond Version.&#xD;
+&#xD;
+-Discover more than 100 new Pokémon in the Sinnoh Region!&#xD;
+-Meet goals and earn the ability to import Pokémon from your GBA versions!&#xD;
+-Battle and trade with your friends around the world using Nintendo Wi-Fi Connection!&#xD;
+-Watch as day turns to night with the return of the real-time clock feature!&#xD;
+&#xD;
+</description>
+    <year>2007</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Pokemon - Diamond Version.nds" size="67108864" />
+  </game>
+  <game name="Super Mario 64 DS">
+    <description>Mario, Luigi, and Wario have all gone to the Mushroom Palace for some of Princess Peach's famous home made cake. However, when they don't return its up to the heroic dino Yoshi to find out what's wrong.
+
+In this portable remake of the original Super Mario 64 You' are able to play as different characters from the Mario franchise. Wario, Yoshi, Luigi, and of course Mario. Each character has different abilities to be made use of during the games expanded quest. 
+
+The game now features 150 Stars to collect up from the previous 120, new stages with new bosses, changes to old stages and bosses, and a multiplayer in which player compete to get the most stars.
+
+The game also includes over two dozen mini games that make use of both screens and the touch pad.
+
+The DS touch screen can be used to mimic analog control.</description>
+    <year>2004</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Super Mario 64 DS.nds" size="16777216" />
+  </game>
+  <game name="Grand Theft Auto - Chinatown Wars">
+    <description>Grand Theft Auto: Chinatown Wars is an entirely original entry into the critically acclaimed Grand Theft Auto series, and brings a new level of interactivity to its sprawling open environments. With the use of the DS touch screen, players navigate their way through the streets as they uncover the truth behind an epic tale of crime and corruption within the Triad crime syndicate, delivering the unprecedented amount of depth that has become a true trademark of the franchise.</description>
+    <year>2009</year>
+    <manufacturer>Rockstar Games</manufacturer>
+    <rom name="Grand Theft Auto - Chinatown Wars.nds" size="134217728" />
+  </game>
+  <game name="Animal Crossing - Wild World">
+    <description>Animal Crossing: Wild World is a 2005 social simulation video game developed and published by Nintendo for the Nintendo DS handheld game console, and is the second game in the Animal Crossing series.&#xD;
+Wild World focuses on living in a remote village populated with anthropomorphic animals, where the player is encouraged to perform any number of tasks, such as collecting and planting. Like all Animal Crossing titles, the game is synced to the console's clock and calendar, allowing the game to be played in real-time, which affects the occurrence of in-game events based on the current time of day or season. Wild World also utilizes Nintendo Wi-Fi Connection, which notably allows players to travel and visit the villages of other players via online play.</description>
+    <year>2006</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Animal Crossing - Wild World.nds" size="33131748" />
+  </game>
+  <game name="Kingdom Hearts Re:coded">
+    <description>The game takes place after the events of Kingdom Hearts II and follows the story of Jiminy Cricket, King Mickey, Donald Duck and Goofy in Disney Castle. While organizing the records in Jiminy's journal from his travels with Sora and his friends, Jiminy Cricket's curiosity about the line "Thank Naminé" results in him finding a message that he did not write: "Their hurting will be mended when you return to end it." To investigate this message, King Mickey digitizes the contents of the journal and goes into the simulated world to investigate; awakening a virtual Data-Sora on the virtual Destiny Islands to carry out the contents of the journal to uncover the identity of those who are "hurting".</description>
+    <year>2010</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="Kingdom Hearts - Re-coded.nds" size="268435456" />
+  </game>
+  <game name="Asphalt : Urban GT 2">
+    <description>The sequel to Asphalt: Urban GT continues the fast-paced racing of the original game with various additions. Races take place on eight locations all over the world. While racing, smashing other cars, or avoiding the police, there is cash to collect. Money</description>
+    <year>2006</year>
+    <manufacturer>Ubisoft</manufacturer>
+    <rom name="Asphalt - Urban GT 2.nds" size="33554432" />
+  </game>
+  <game name="Panel De Pon DS">
+    <description>Take on the world in Planet Puzzle League, a simple but addictive puzzle game that you may recognize as Tetris Attack, Panel De Pon, or Pokémon Puzzle League.  Colored tiles rise up from a bin, and its your job to arrange them horizontally or vertically in lines of three or more of the same tile.  This causes them to disappear.  Advanced players will be able to arrange tiles so that when they land, they clear additional tiles to stop the tiles from rising and score even more points!
+
+Planet Puzzle League features a wide variety of different game modes to keep even the most dedicated puzzler busy:
+
+1.  Endless - Play forever until you fail.  The tiles rise faster over time.
+2.  Clear - Remove all the blocks down to the 'CLEAR' line, buried deep down.
+3.  Garbage Challenge - Garbage blocks rain down on your bin - clear as many as you can!
+4.  Vs. COM - Play against the CPU.  Try to get their tiles to reach the top of the bin first!
+5.  Time Attack - See how many points you can earn in two minutes.
+6.  Puzzle - Either clear the preset mind-bending puzzles, or try the various missions that you are given.
+
+Similar to Brain Age, Planet Puzzle League features a 'Daily' Mode.  Play these short games once a day to track your skill over a long period of time.  Are you getting better?  Or worse?
+
+You can also play multiplayer modes of the game, either locally, or over Nintendo Wi-Fi Connection.  Modes of play include Birthday Battle (play against people who share your date of birth), Free Play Battle (play an unranked match), and Friend Battle (play against Friends you've traded Friend Codes with).</description>
+    <year>2007</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Planet Puzzle League.nds" size="33554432" />
+  </game>
+  <game name="Powerbike">
+    <description>The dangerous world of street racing is about to get a whole lot more exciting! When an anonymous sponsor offers you resources to join the chaos, its time to take to the streets and show the amateurs how its done. Race for respect, personal pride, and cold, hard cash in the only motorcycle racer available for DS!</description>
+    <manufacturer>Majesco</manufacturer>
+    <rom name="Powerbike.nds" size="33554432" />
+  </game>
+  <game name="Pokémon Black Version 2">
+    <description>TWO POWERS COMBINE...A NEW LEGEND ARISES!&#xD;
+Set off on a new Pokémon adventure to save the Unova region! You and your Pokémon can accomplish anything together!&#xD;
+&#xD;
+Unova, Two Years Later...&#xD;
+&#xD;
+Film Movies at Pokéstar Studios&#xD;
+&#xD;
+A New Story!&#xD;
+&#xD;
+This is Pokémon Black Version 2. The types and likelihood of Pokémon that will appear differ from Pokémon White Version 2. This game can communicate, battle, and trade only with the various language versions of Pokémon Black Version 2, Pokémon White Version 2, Pokémon Black Version, and Pokémon White Version. After completing the main story, you can communicate with Pokémon Diamond, Pearl, Platinum, HeartGold, and SoulSilver Versions (English-language versions only) to transfer Pokémon to your game. Pokémon transferred in this way cannot be sent back. This game is not compatible with the Pokéwalker accessory. Basic reading ability is needed to fully enjoy this game.</description>
+    <year>2012</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Pokemon - Black Version 2.nds" size="536870912" />
+  </game>
+  <game name="Seiken Densetsu DS : Children of Mana">
+    <description>Some years before the action begins, a great catastrophe began at the base of the Mana Tree. This gives the main characters, Ferrik, Tamber, Poppen and Wanderer, who's parents were killed in the disaster, reason to find out what happened. The game takes place on the Island of Illusia, at the center of which lies the Mana Tree.
+
+The game is a real time Action/RPG very similar to the style of Secret of Mana. New features include dual weapon systems, so characters can use one long range and one melee weapon at a time. 
+
+Although there is much more that can be done with each weapon, there are only four in the game, as opposed to twice as many in previous titles.
+
+The game supports Wireless LAN for 4 players.</description>
+    <year>2006</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="Children of Mana.nds" size="67108864" />
+  </game>
+  <game name="Rune Factory - A Fantasy Harvest Moon">
+    <description>You awaken to find yourself in an unfamiliar village with no memory of who you are or how you arrived. Mist, a beautiful young woman comes to your aid and helps you start to build a life for yourself on a farm. Till the land, grow crops, raise animals, catch fish and battle monsters!</description>
+    <year>2009</year>
+    <manufacturer>Rising Star Games</manufacturer>
+    <rom name="Rune Factory - A Fantasy Harvest Moon.nds" size="134217728" />
+  </game>
+  <game name="N+">
+    <description>N+ is an enhanced version of the game N, originally a flash based browser game. Players control a small, but very agile ninja through different small areas. Next to movement, only a single button is used to jump, but this allows the ninja to run up walls, do wall jumps and cross large distances.
+
+Levels are divided over different episodes unlocked gradually. Each level consists of a single screen with a time limit. The amount of time can be replenished by collecting golden coins, but the main goals is to activate the exit, usually by touching a specific button or opening a number of doors. Areas are filled with hazards such as spikes and droids that shoot laser or rockets. There are also obstacles such as platforms that only move in a single direction or falling damage from high platforms. Death is always instant, but the player is given an unlimited amount of tries.
+
+The PSP version includes a mix of original levels and user-created ones with about 200 in total. There is also a level editor and unlike the Xbox 360 version these can be shared with other players. The PSP version shows the levels from a "medium" distance, while the DS version contains a far view and a close view on the screens. Physics are also slightly different in each version.
+
+There are both competitive and cooperative game modes available in multiplayer sessions. Players can switch between the pure mode with original graphics and the plus mode with enhanced visuals. The unlockables includes victory screens, new music and new colours for the ninja.</description>
+    <year>2008</year>
+    <manufacturer>Atari</manufacturer>
+    <rom name="N+.nds" size="8388608" />
+  </game>
+  <game name="Tetris DS">
+    <description>At its base, Tetris DS is the same Tetris gameplay that's been around for years: rotate and arrange Tetriminos to create full lines and make them disappear.  However, it also has a style very different from earlier Tetris games, new play modes, and online play.
+
+Graphically and aurally, Tetris DS is based on classic NES games.  A portion of the graphics are sprites directly ripped from Mario Bros., Super Mario Bros., Super Mario Bros. 3, Donkey Kong, Balloon Fight, Metroid, Yoshi's Cookie, and The Legend of Zelda.  Remixes of music from these games are also used.
+
+Standard mode includes the standard endless play option, the standard "get 25 lines to win" option, and the standard versus mode where clearing multiple lines at once adds lines to the bottom of your opponents' well.
+
+Push mode is a versus game with a twist.  The player's moves and pieces are shown on the top screen, while the opponent's are on the bottom screen, both with gravity moving towards the center.  Instead of multiple line clears adding extra lines to the bottom of your opponent's well, though, the center is pushed towards their end, giving them a smaller play area.  Push back and forth until one side loses.
+
+Touch mode presents you with a tall uneven stack of large Tetriminos.  The goal is to nudge or rotate them by dragging or tapping on the touch screen to create full lines and eventually clear the stack.
+
+Puzzle mode offers 200 Tetris scenarios and presents you with a number of pieces.  You choose the order and rotation of the pieces to try and empty the well.
+
+Mission mode gives you specific goals like "Use a square block to clear a line" or "Clear 3 lines with an L piece".  Finish the mission and you'll be given another.  Don't finish the mission and several rows of random blocks will be added to the bottom of the well before being given another mission.
+
+Catch mode has the Tetriminos falling without direct player control.  Instead, the player controls a moving core of blocks which can rotate as a whole, as well as latch on to the falling Tetriminos.  The goal is to create a square of at least 4x4, causing an explosion which keeps the size of your core small.  Lose by allowing your core to get too large, or by losing enough energy; which occurs when you allow a Tetrimino to scroll past the bottom of the screen, your rotating core smacks into and destroys a Tetrimino, or you hit a falling enemy.
+
+Multiplayer Standard, Mission, and Push modes can be played locally using one copy of Tetris DS.  Mission allows for up to 10 players competing for a high score.  Standard allows for up to 10 players, and has an option for Mario Kart-like items to aid you or harm your enemies.  Push mode remains a one-on-one experience.  With Nintendo Wi-Fi Connection, you can play a two-player Standard game without items, a four-player Standard game with items, or a two-player Push mode game.</description>
+    <year>2006</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Tetris DS.nds" size="16777216" />
+  </game>
+  <game name="Final Fantasy III">
+    <description>In 2006, Final Fantasy III reached North American shores in an official update/remake for the Nintendo DS, finally bringing all of the main Final Fantasy entries to the United States for the first time.
+
+Raised as an orphan by Nina and Elder Topapa in the village of Ur, Luneth, his shy friend Arc, the rebellious Refia and the brave soldier Ingus are chosen as the Four Warriors of Light to send to restore balance to the crystals, and save the world from imminent destruction.
+
+Taking the original game which debuted on the NES, Square-Enix had updated the title with a new cinematic intro, improved graphics and a touch-screen interface to move characters and utilize selection menus. There is also Moogle Mail, a Wi-Fi feature that allows players to send messages to each other via their DS systems. The game has also some revised story elements, detailing the adventures of four friends who find each other, each with new backstories.
+
+Final Fantasy III is a traditional turn-based RPG, which were popular back in the '80s and '90s, but introduced refinements to the genre, such as smarter battle AI. Final Fantasy III is also known for two major milestones in the history of the series: Its introduction of the cheerful Moogles, as well as the introduction of the job system, allowing characters to switch professions throughout the game for new abilities.</description>
+    <year>2007</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="Final Fantasy III.nds" size="134217728" />
+  </game>
+  <game name="The Legendary Starfy">
+    <description>Nintendo's Newest Five-Sided Hero&#xD;
+&#xD;
+Beneath Starfy's glamorous exterior pulses the heart of a true hero. He can handle anything anyone throws at him. Swift ocean currents, bottomless pits and hordes of enemies daunting for a lesser hero, but not Starfy, Nintendo's newest platforming sensation.</description>
+    <year>2008</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="The Legendary Starfy.nds" size="67108864" />
+  </game>
+  <game name="Pokémon White Version 2">
+    <description>This is Pokémon White Version 2. The types and likelihood of Pokémon that will appear differ from Pokémon Black Version 2. This game can communicate, battle, and trade only with the various language versions of Pokémon Black Version 2, Pokémon White Version 2, Pokémon Black Version, and Pokémon White Version. After completing the main story, you can communicate with Pokémon Diamond, Pearl, Platinum, HeartGold, and SoulSilver Versions (English-language versions only) to transfer Pokémon to your game. Pokémon transferred in this way cannot be sent back. This game is not compatible with the Pokéwalker accessory. Basic reading ability is needed to fully enjoy this game.</description>
+    <year>2012</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Pokemon - White Version 2.nds" size="536870912" />
+  </game>
+  <game name="Phantasy Star 0">
+    <description>Phantasy Star Zero takes place on an alternate Earth 200 years after the Great Blank, a massive war that has reduced the once-prosperous civilization to almost nothing. The sole surviving Humans have worked hard to exist peacefully and have built thriving Cities. The Humans that adventure past the outskirts of these Cities, called Hunters, explore the vast wilderness and hunt dangerous monsters to keep Cities safe. Players will take up the role of Hunters and select from three types of races and different classes, as well as gender for a total of 14 customizable character types. Each character type will play very differently and give players access to a great range of items, armor and weapons. Featuring over 350 unique weapons, gamers will venture out on Earth, combat dangerous monsters to gain experience and meet new major characters. As players explore further, they will unravel the mystery of the Great Blank and discover a dangerous new force that must be stopped.</description>
+    <year>2009</year>
+    <manufacturer>SEGA</manufacturer>
+    <rom name="Phantasy Star 0.nds" size="134217728" />
+  </game>
+  <game name="Pokemon: SoulSilver Version">
+    <description>PREPARE FOR THRILLING NEW ADVENTURES AS LEGENDARY POKÉMON AWAKEN!&#xD;
+Explore the Johto region as you catch, train, and battle with your favorite Pokémon by your side. Turn the tides--call forth the Legendary Pokémon!&#xD;
+&#xD;
+Enjoy minigames with your trained Pokémon!&#xD;
+&#xD;
+Travel with your favorite Pokémon!&#xD;
+&#xD;
+Take your Pokémon with you! Introducing the Pokéwalker accessory!&#xD;
+The Pokéwalker is a special pedometer only for Pokémon HeartGold and Pokémon SoulSilver Versions. It can communicate with these games using an infrared signal!&#xD;
+By storing a Pokémon in the Pokéwalker, it can earn Experience Points and become friendlier as you walk in real life!&#xD;
+You can catch Pokémon and find items in the Pokéwalker, then transfer them to Pokémon SoulSilver Version!</description>
+    <year>2010</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Pokemon - SoulSilver Version.nds" size="134217728" />
+  </game>
+  <game name="Shin Megami Tensei : Strange Journey">
+    <description>SMT:Strange Journey is the 4th official Shin Megami Tensei game of the series.It departs from the usual urban Japan setting,and takes place in the future,in Antarctica.It is more sci-fi,with the main protagonist wearing a 'Demonica' suit,which allows for the use of apps throughout the game.You also have guns,swords,and armor that you can acquire and use throughout the game</description>
+    <year>2010</year>
+    <manufacturer>Atlus</manufacturer>
+    <rom name="Shin Megami Tensei - Strange Journey.nds" size="134217728" />
+  </game>
+  <game name="Geometry Wars : Galaxies">
+    <description>First acting as a bonus mini-game in Project Gotham Racing 2 on Xbox, Geometry Wars Galaxies is now a game in its own right on DS. On board your spacecraft, you have to face the hordes of geometric enemies that are constantly sweeping the playground. Old-fashioned shoot'em up, Geometry Wars Galaxies is a demanding title not to be put among all hands.</description>
+    <year>2007</year>
+    <manufacturer>Sierra</manufacturer>
+    <rom name="Geometry Wars - Galaxies.nds" size="67108864" />
+  </game>
+  <game name="Kingdom Hearts : 358/2 Days">
+    <description>Kingdom Hearts 358/2 Days revolves around Roxas, the "other" hero from&#xD;
+Kingdom Hearts II. Players follow Roxas through his days among Organization XIII's ranks, unraveling the events that took place during the year that Sora was asleep, and ultimately revealing one of the Kingdom Hearts saga's most shocking secrets. Players and their friends will join Roxas, his friend Axel and the mysterious fourteenth member of Organization XIII on a journey across charming, vibrant worlds full of Square Enix's and Disney's beloved characters.</description>
+    <year>2009</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="Kingdom Hearts - 358-2 Days.nds" size="268435456" />
+  </game>
+  <game name="Final Fantasy : The 4 Heroes of Light">
+    <description>With FINAL FANTASY: THE 4 HEROES OF LIGHT, the FINAL FANTASY series is rendered anew as an epic storybook adventure by the creators of the FINAL FANTASY III and FINAL FANTASY IV Nintendo DS remakes. Players will enter a beautiful fairy-tale world featuring illustrations and character designs by acclaimed character designer Akihiko Yoshida (FINAL FANTASY III for DS, FINAL FANTASY XII). Developed exclusively for Nintendo DS, this role-playing game is the first original FINAL FANTASY title for the platform. In the small kingdom of Horne, Brandt awakes on the morning of his 14th birthday. Today is the day he becomes an adult, and the custom of the realm says that he must go to the castle to present himself to the king. Yet when he arrives at the castle, he finds the king distraught and the youngest princess missing, abducted by the Witch of the North. With no one else to turn to, the king makes a shocking request: will Brandt save the princess? And thus Brandt's adventure begins...</description>
+    <year>2010</year>
+    <manufacturer>Matrix Software</manufacturer>
+    <rom name="Final Fantasy - The 4 Heroes of Light.nds" size="67108864" />
+  </game>
+  <game name="Spider-Man : Web of Shadows">
+    <description>New York City has been invaded by a vicious symbiote infection and only Spider-Man can save it. Experience an unprecedented level of game play choice, including for the first time, control over the game's direction and outcome. Choose how Spider-Man fights, which powers to upgrade, who in the Marvel universe to fight with or against &amp; the fate of NY City itself. Choose wisely.</description>
+    <year>2008</year>
+    <manufacturer>Activision</manufacturer>
+    <rom name="Spider-Man - Web of Shadows.nds" size="67108864" />
+  </game>
+  <game name="Contra : Dual Spirits">
+    <description>Contra 4 for the Nintendo DS is a direct sequel to 1994 SNES Contra III: Alien Wars. Two years after the defeat of Red Falcon - the first wave of the alien colonization fleet, the main invading force Black Viper approaches Earth. The heroes of the original Contra series - Billy Rizer and Lance Bean as well as two newcomers - Mad Dog and Scorpion are now humanity's last line of defense against total annihilation.
+
+This installment of the long-running series adds dual screen gameplay, enabling the player a wider view, and a 2-player co-op mode via local Wi-Fi connection. Each player is now given two weapon slots which can be filled with any one of the game's many weapon power-ups and switched at will with a press of a shoulder button. The game features nine levels set in such classic Contra locations as Jungle, Waterfall and a pseudo-3D Base.
+As a bonus, the cartridge contains an illustrated history of Contra, as well as the Contra and Super C original NES games.</description>
+    <year>2007</year>
+    <manufacturer>Konami</manufacturer>
+    <rom name="Contra 4.nds" size="33554432" />
+  </game>
+  <game name="Chrono Trigger">
+    <description>What begins as a carefree day at the Millennial Fair for a young man named Crono turns into a huge adventure. He will be thrusted into the ultimate trip through time and space, encountering new friends, defeating the forces of evil, and encountering the one who would destroy the flow of time.&#xD;
+Chrono Trigger is a role-playing game, with the usual game mechanics fare. As the characters grow in power, not only their ability scores increase, but they also learn new "Techs".&#xD;
+The game utilizes the ATB (active time battle) combat system from Final Fantasy game. Apart from normal Techs, it is possible to use Double and Triple Techniques.There are no random battles in the game, as all the enemies are visible on screen, and it's even possible to just pass by them entirely.&#xD;
+The game allows you to face your ultimate adversary at different points of time, which leads to several different endings.</description>
+    <year>2008</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="Chrono Trigger.nds" size="134217728" />
+  </game>
+  <game name="One Piece : Gigant Battle">
+    <description>You start in Schabondy Island and as you progress through each battle stage, you unlock new secret levels, characters, moves and even art pictures. You also unlock previous arcs which as Skypiea and Enies lobby. Over 20 or so different characters to play, including some of the fan favourites, Ace, Whitebeard, Jimbei, Ivankov, many more and obviously including the Straw hats. Along with support characters which are small characters in the series, such as Duval, the fighting seals you see in Alabasta, you can even have a few of your favourite Straw hats as your support characters. A lot of fun, with a great levelling up system with challenges in each battle to earn more Beli to purchase moves for your character and to become stronger.</description>
+    <year>2010</year>
+    <manufacturer>Bandai Namco</manufacturer>
+    <rom name="One Piece - Gigant Battle.nds" size="67108864" />
+  </game>
+  <game name="Suikoden - Tierkreis">
+    <description>The 108 Stars of Destiny are back! In this game the player takes on the role of the young hero from Citro Village, and with Marica, Liu and Jale (and other more), the player will explore the world looking for the True Chronicles and stop the evil forces of The Order of the One True Way, lead by the One King!
+
+Suikoden Tierkreis is a classical turn-based console Role Playing Game with some interesting Ideas, like mini-quest using specific (or not) character for complete it. The world is completely 3D and the game focuses on story elements. Movement is done with the directional pad or stylus.
+
+Like most console RPGs the game has the player interacting with NPCs and fighting random encounters.
+
+Items and characters can be exchanged with other players through Wi-Fi.</description>
+    <year>2009</year>
+    <manufacturer>Konami</manufacturer>
+    <rom name="Suikoden - Tierkreis.nds" size="268435456" />
+  </game>
+  <game name="Dragon Quest Heroes : Rocket Slime">
+    <description>The peaceful land of Slimenia has been suddenly invaded by a mysterious cartel called "the Plob" who then proceed to kidnap all the slimes in the capital city of Boingburg. Our protagonist Rocket is the only slime left behind and must embark on a journey throughout Slimenia to save his friends and uncover the Plob's nefarious plot!Part of a series of Slime Mori Mori games in Japan Dragon Quest Heroes is full of adventure stages that take advantage of our hero's bouncing and stretching abilities as he works to solve the challenges of each area in the game and rescue his captured slime friends. Each adventure stage culminates in Rocket hopping aboard a colossal slime-shaped player-customizable war machines. Pit tanks against a friend's in exciting player-vs-player action using the Nintendo DS wireless multiplayer game feature!</description>
+    <year>2006</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="Dragon Quest Heroes - Rocket Slime.nds" size="67108864" />
+  </game>
+  <game name="Luminous Arc 2">
+    <description>More Strategy, More Witches, More Fun! As the threat of a rogue Witch looms over Carnava, the Queen calls upon the Magic Association to save the land. Beautiful hand drawn graphics and a stunning score from Yasunori Mitsuda's Procyon Studio combine with multiplayer support to create the must-have strategy RPG of the year! "Engagement" System - Gain potent Witch powers with this intriguing new tactical feature. Refined Mechanics - Upgraded interface, polished touch controls, and rebalanced gameplay.</description>
+    <year>2009</year>
+    <manufacturer>Atlus</manufacturer>
+    <rom name="Luminous Arc 2.nds" size="134217728" />
+  </game>
+  <game name="Donkey Kong - Jungle Climber">
+    <description>Donkey Kong and his extended family are taking a vacation on Sun Sun Island. All of a sudden, they spot a gigantic banana at the top of the island's mountain. DK, begins to head up to the top of the mountain to find out just what's happening up there...&#xD;
+&#xD;
+DK: Jungle Climber is an indirect sequel to the GBA game, DK: King of Swing.  As in that game, players control DK by climbing with his left and right hands.  The L-button makes DK grab with his left hand, and the R-button makes him grab with his right. Holding onto an object with one hand will make DK swing around it either clockwise or anti-clockwise, while pressing down L and R simultaneously will make him stop in place. DK can also attack enemies by pressing the A-button spin at them, and can even fly around if he has collected enough gems scattered around the levels.</description>
+    <year>2007</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Donkey Kong - Jungle Climber.nds" size="67108864" />
+  </game>
+  <game name="Bejeweled Twist">
+    <description>Bejeweled Twist is a tile matching game, where the player rotates groups of four jewels to create rows and columns of three or more matching gems. In the Classic and Zen modes, the objective is to make enough matches to fill a tube at the left side of the screen to move to the next level. There's a chain meter at the top of this tube, that builds up with matches in a row multiplying the points, and making a fruit jewel appear when full. A box at the tube bottom shows the sequence of matches needed for bonus points.
+
+Obstacles appear randomly on the game board. The coal can't be matched, but it can be exploded by one of the power-ups gems. The locked jewel is chained to its place and can't move, but it can be removed with a match. Bomb gems display the number of moves allowed before they explode, destroying the board and ending the game. They have to be matched before their counters reach zero, otherwise a revolving wheel-of-fortune appears that stops in one of two values, skulls or gems, that either detonate or disarm the bomb. This mini-game becomes more difficult every time it comes up.
+
+The power-ups appear after making matches of four or more gems. A four jewel match creates the flame gem, that explodes when matched removing all surrounding jewels. A five jewel match creates the lightning gem, that destroys a column and a row at the same time in a cross of fire.
+
+With the exception of Classic Mode , the other modes are unlocked with continuous playing. Zen Mode is similar to Classic, but is more relaxed without the bomb and locked jewels. Challenge Mode is a puzzle mode, where the objective is to perform a task, like removing all gems of one color, or making a number of matches in a row. In Blitz Mode, the goal is to accumulate the maximum amount of points possible within a time limit.</description>
+    <year>2010</year>
+    <manufacturer>PopCap Games</manufacturer>
+    <rom name="Bejeweled Twist.nds" size="33554432" />
+  </game>
+  <game name="Final Fantasy Crystal Chronicles - Echoes of Time">
+    <description>When a girl in the village falls ill after a birthday party, the Hero has to go in town to get medicine. And then, event after event, gets on a quest that will reveal the history of this village in the forest, of the villagers, of the world around them.At</description>
+    <year>2009</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="Final Fantasy Crystal Chronicles - Echoes of Time.nds" size="134217728" />
+  </game>
+  <game name="LEGO Batman - The Videogame">
+    <description>A stampede of notorious criminals have busted out of Arkham Asylum, where Gotham City houses only the shadiest of characters. It's up to the famed Caped Crusader to sweep Gotham clean of criminal activity using everything at his disposal, including crime-fighting vehicles as well as several baddie-bashing bat gadgets.&#xD;
+</description>
+    <year>2008</year>
+    <manufacturer>Warner Bros. Interactive</manufacturer>
+    <rom name="LEGO Batman - The Videogame.nds" size="67108864" />
+  </game>
+  <game name="Sonic Classic Collection">
+    <description>Sonic Classic Collection is a set of four games from the Sonic series on one cart.  The games included on the cart are:
+
+1.  Sonic the Hedgehog
+2.  Sonic the Hedgehog 2
+3.  Sonic the Hedgehog 3
+4.  Sonic and Knuckles
+
+The compilation also includes Knuckles in Sonic the Hedgehog 2 and Knuckles in Sonic the Hedgehog 3, which were originally accessed by connecting Sonic 2 or Sonic 3 into the Sonic and Knuckles cart.  All multiplayer modes in the games have been removed, making this a single player only game.
+
+In addition to the main game, an art gallery can also be accessed.  This gallery features promotional art from Sonic 1, Sonic 2, Sonic 3, Sonic Spinball and Sonic Drift.</description>
+    <year>2010</year>
+    <manufacturer>SEGA</manufacturer>
+    <rom name="Sonic Classic Collection.nds" size="67108864" />
+  </game>
+  <game name="Mystery Dungeon - Shiren the Wanderer">
+    <description>Shiren and Koppa still have their primary objective of finding the Lair of the Golden Condor but an adventure is not complete without visiting new towns and going on exciting side quests! Check out some of side quests they go on and the towns these two warriors visit along the way!</description>
+    <year>2008</year>
+    <manufacturer>SEGA</manufacturer>
+    <rom name="Mystery Dungeon - Shiren the Wanderer.nds" size="16777216" />
+  </game>
+  <game name="Trackmania Turbo">
+    <description>Over 100 tracks geared for blazing fast racing action, each loaded with daring jumps, thrilling loops, crazy ramps, and a host of other insane stunts - are just the start. Players have access to the most powerful portable track design system ever, giving Trackmaniacs total freedom to create the most over-the-top race courses imaginable and offering practically unlimited value. The "Coppers" reward system gives you credits for completed races which can be used to unlock new tracks, new car paint schemes, and most importantly, new parts to use in making the tracks of your dreams. The more you race, the more you can do! Single and multi-cart local wireless multiplayer support for up to four players at a time (and eight players via hot-seat mode) and the ability to share and race on each others' custom tracks.</description>
+    <year>2010</year>
+    <manufacturer>Firebrand Games</manufacturer>
+    <rom name="TrackMania Turbo.nds" size="67108864" />
+  </game>
+  <game name="Metal Slug 7">
+    <description>The Peregrine Falcon Strike Force, the Ikari Warriors, and the SPARROWS are once again on a search for General Morden and his army. Their mission is to catch General Morden and prevent his attempts at another coup d'état on the government. However, as soon as Morden was defeated, a strange army from the future came to his aid. Now, they must face Morden once again and this time, put a stop to his plans once and for all.</description>
+    <year>2008</year>
+    <manufacturer>SNK</manufacturer>
+    <rom name="Metal Slug 7.nds" size="67108864" />
+  </game>
+  <game name="Yajuu Keiji : Tokyo Douji Tahatsu Terror o Chinatsu Seyo!">
+    <description>Who has it within them to rise up against the ever growing threat of violence, crime, and terrorism on the streets of Tokyo? Enter the Beast Cops, tireless servants of justice. These men and women struggle night and day for the heart of the city. They'll match any villain punch for punch, kick for kick, bullet for bullet. They're Beast Cops because they will do whatever it takes, pay any price, inflict as much damage as necessary, in order to restore peace and security to the streets of Tokyo.</description>
+    <year>2009</year>
+    <manufacturer>Atlus</manufacturer>
+    <rom name="Tokyo Beat Down.nds" size="67108864" />
+  </game>
+  <game name="Advance Wars - Dual Strike">
+    <description>The first entry of the long running Wars series for the Nintendo DS. This turn-based strategy game has you commanding an Allied Nations army against the vile Black Hole.Choose from a handful of COs (commanding officers), each with his own unique CO power </description>
+    <year>2005</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Advance Wars - Dual Strike.nds" size="33554432" />
+  </game>
+  <game name="Seiken Densetsu : Heroes Of Mana">
+    <description>Heroes of Mana is a continuation of Square Enix's, World of Mana series, but with a new twist in the gameplay.  This time around the gameplay is now real-time, where players can build bases and their own armies consisting of humans, monsters and rabites throughout the Mana series.
+
+The story takes place when a witch by the name of Anise brought darkness to the land, unleashing hordes of monsters on the world.  She is eventually defeated by the guardians of the trees, but the evil she unleashed was unable to me stopped until the Mana Goddess uses the Mana Sword to seal off the darkness in eight stones, bringing peace to the world.  This is where the players takes control of the main protagonist, Roget, a younger warrior who has learned that somehow the evil is coming back into the world and must embark on a quest with 10 other comrades and countless created units and stop the evil forces from being unleashed again.
+
+The player uses the stylus mostly throughout the game, touching on a certain character and touching somewhere on the screen to move them around or draw circles around multi characters to move them all at once.  Players do battle by selecting their unit and tapping enemy units with the stylus to use that units attack skill on that selected enemy.  Players can also build building and units to help them out by gathering two resources throughout the game, Gaia (which is responsible for buildings) and Treant (for units) all of which is located in the players main base, a large ship. Each unit has a different skill, some are good against enemy units others are used for resource gathering.
+
+Friends can also compete through Wi-Fi head-to-head as well as see their ranking against other players.  Players can also earn bonus items and maps through this if their ranking is high enough.  The music is also composed by Yoko Shimomura who is also responsible for music in games such as Kingdom Hearts, Legend of Mana and Super Mario RPG as well.</description>
+    <year>2007</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="Heroes of Mana.nds" size="134217728" />
+  </game>
+  <game name="Aliens - Infestation">
+    <description>GAME OVER, MAN!  The Xenomorph, the ultimate killing machine, returns.  Only the Universe's toughest, the Colonial Marines, can exterminate the galaxy's most feared species.  Can you fight off the terror of the alien infestation?&#xD;
+&#xD;
+-Choose you squad and watch the dynamic story system adapt&#xD;
+-Pick up where the Aliens crew left off and fight through the U.S.S. Sulaco, planet LV-426, and more!&#xD;
+-Load up with iconic weapons from the film, including pulse rifles, smart guns, and flamethrowers.</description>
+    <year>2011</year>
+    <manufacturer>Wayforward</manufacturer>
+    <rom name="Aliens - Infestation.nds" size="33554432" />
+  </game>
+  <game name="Tales of Innocence">
+    <description>The Imperial Capital of Regnum kept itself in peace during the long-lasting world war. Slowly, people with a "special power" began to appear. Feared by normal people, Regnum set out a law to capture all people with special powers. One day, Ruca, the son of a merchant in Regnum, realizes the special power within him...</description>
+    <year>2007</year>
+    <manufacturer>Bandai Namco</manufacturer>
+    <rom name="Tales of Innocence.nds" size="134217728" />
+  </game>
+  <game name="Commando - Steel Disaster">
+    <description>You play as the heroic Storm who must put an end to an evil organisation called Rattlesnake. Of course, you get to do this with a range of heavy weaponry and Lexicon assures us there are plenty of different weapons and pick-ups - each with its own attack method and power. Plus, some guns can be used to find secret items.</description>
+    <year>2008</year>
+    <manufacturer>Lexicon</manufacturer>
+    <rom name="Commando - Steel Disaster.nds" size="67108864" />
+  </game>
+  <game name="Rune Factory 2 - A Fantasy Harvest Moon">
+    <description>In Rune Factory 2 the player, Kyle by default, is an amnesiac who wanders into the town of Alvarna and is discovered by a girl named Mana. 
+
+Like in the first Rune Factory game, the gameplay is a mix of the farming found in the Harvest Moon series and battling. The player must grow and maintain crops and build up their home, and there are also dungeons to battle and befriend monsters in. The stamina of your character still depends on the meter of rune points, and once it is depleted it will start draining the meter of health points. 
+
+The player will marry a potential girl in the town and have child with her, the gender of the child will be of the player's choosing. Unlike the Harvest Moon games, the player will then continue playing as the child which is an integral part of the game's plot. At the point the goal of the game is to build a school, a goal left behind by Kyle one night when he left home.</description>
+    <year>2008</year>
+    <manufacturer>Marvelous Interactive</manufacturer>
+    <rom name="Rune Factory 2 - A Fantasy Harvest Moon.nds" size="134217728" />
+  </game>
+  <game name="FIFA 11">
+    <description>FIFA 11 reinvents player authenticity - on and off the ball - for every player and at every position on the pitch with Personality+, an all-new feature that sees individual abilities reflected in game, enabling clear differentiation for every player.&#xD;
+&#xD;
+With Personality+ a footballer's abilities on the pitch is mirrored authentically in game, creating individual personalities. Players will be distinguished from one another through a sophisticated database that evaluates and grades each player's skill-set over 36 attributes and 57 traits, compiled by 1700 scouts around the world. Real Madrid's Kaka will deliver crisp, creative passes, Barcelona's Andres Iniesta will utilize tighter turns and close control to dribble through defenses, Manchester United's Wayne Rooney will hold off defenders and strike shots from distance with pace, and top-flight defenders like Giorgio Chiellini of Juventus will anticipate, predict and react to offensive players to win back possession.</description>
+    <year>2010</year>
+    <manufacturer>EA Sports</manufacturer>
+    <rom name="FIFA 11.nds" size="33554432" />
+  </game>
+  <game name="Asphalt : Urban GT">
+    <description>Asphalt Urban GT combines the virtues of both simulation and arcade racing for the Nintendo DS. You'll hit the streets in a variety of licensed high-performance cars on tracks all over the world. Winning races, collecting prize money, and then purchasing new cars and modifying current ones are keys to success. The game also features three different multiplayer modes that let you race against three other players.</description>
+    <year>2005</year>
+    <manufacturer>Ubisoft</manufacturer>
+    <rom name="Asphalt - Urban GT.nds" size="33554432" />
+  </game>
+  <game name="Bakugan - Rise of the Resistance">
+    <description>Bakugan-Battle Brawlers Rise of the Resistance is another game in the Bakugan saga. The story takes place in New Vestroia, which will be invaded by a group of evil Bakugans. It's up to you to help the members of the Resistance.</description>
+    <year>2011</year>
+    <manufacturer>Activision</manufacturer>
+    <rom name="Bakugan - Rise of the Resistance.nds" size="33554432" />
+  </game>
+  <game name="Final Fantasy Tactics A2 : Grimoire of the Rift">
+    <description>Embark on a journey through the vibrant world of Ivalice this summer with FINAL FANTASY TACTICS A2: Grimoire of the Rift. As the third entry in the Ivalice Alliance series, this follow-up to the 2003 Game Boy Advance release brings the popular tactical franchise to the Nintendo DS for the first time. FINAL FANTASY TACTICS A2: Grimoire of the Rift will introduce newcomers to an engaging turn-based, grid-oriented battle system as they make new discoveries alongside the hero in this lighthearted adventure.</description>
+    <year>2008</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="Final Fantasy Tactics A2 - Grimoire of the Rift.nds" size="134217728" />
+  </game>
+  <game name="Might &amp; Magic - Clash of Heroes">
+    <description>Might &amp; Magic: Clash of Heroes is a mix of a role-playing and puzzle-game on Nintendo DS. The title offers five types of heroes, with specific powers and units,  as part of five scripted campaigns. The game also offers a Free mode which allows you to configure skirmishes, as well as a two player mode to face a friend.&#xD;
+</description>
+    <year>2009</year>
+    <manufacturer>Ubisoft</manufacturer>
+    <rom name="Might &amp; Magic - Clash of Heroes.nds" size="33554432" />
+  </game>
+  <game name="TrackMania DS">
+    <description>The TrackMania series is now going portable with this Nintendo DS release.
+
+Race with over 100 tracks by yourself or with your friends. The new modes exclusive to the game are 'Platform', in which you must navigate through complex levels without using too many retries, and 'Puzzle', in which you must create your own map with checkpoints and a limited number of building blocks to connect the pieces, and race to the finish, while the 'Race' mode is left intact. The game includes three environments to race: Desert (the environment used in TrackMania Original), Rally and Stadium (the environment used in TrackMania Nations).
+
+Instead of complex racing simulators where you have to measure a correct speed to turn through narrow roads, this is an arcade-style racing game with high speeds (over 400 km/h!) and simple controls. All you have is accelerate, brake, horn and that's it! Of course, like it's PC counterparts, you can freely reset the track if you fall of the track, or if you want a better medal. There are three types of medals: bronze, silver and gold. You can either race with AI opponents or race by yourself. The main objective is to get to the finish line as fast as possible. The target time is given to you at the beginning of every track, depending on for which medal you are racing.
+
+The game also includes a built-in map editor, which allows you to create a custom map with your stylus.</description>
+    <year>2008</year>
+    <manufacturer>Firebrand Games</manufacturer>
+    <rom name="TrackMania DS.nds" size="33554432" />
+  </game>
+  <game name="Cars - Mater-National Championship">
+    <description>Cars Mater-National features an all-new international group of racers vying for their chance to compete against Lightning McQueen in the First Annual Mater-National Race Festival, hosted by Lightning's best friend, Mater. Explore the new and improved open world of Radiator Springs, play in the all-new Monster Mode, jump into the fast lane with six new International racing competitors, burn rubber on new tracks, and twist and turn your way through new mini-games like Ramone's Rhythmic Rumble and Fillmore's Fuel Frenzy.</description>
+    <year>2007</year>
+    <manufacturer>THQ</manufacturer>
+    <rom name="Cars - Mater-National Championship.nds" size="33554432" />
+  </game>
+  <game name="Etrian Odyssey">
+    <description>Etrian Odyssey is a first-person, dungeon exploration game created by Atlus for the Nintendo DS. The game contains many classic RPG elements such as random battles, leveling up, and a host of things to find and collect. However, Etrian Odyssey is unique in the fact that as you explore the labyrinth, you must create a map of each floor entirely yourself using the stylus and the bottom screen of the Nintendo DS, similar to older games such as Wizardry, where players often created their own maps of the dungeon on graph paper.</description>
+    <year>2007</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Etrian Odyssey.nds" size="33554432" />
+  </game>
+  <game name="Bleach - The Blade of Fate">
+    <description>Just as the highly-anticipated second season launches, you'll get to experience the Soul Reaper fighting action of Bleach with up to three of your friends simultaneously. Bleach follows the life of a 15-year-old boy who is able to see spirits and discovers he has supernatural powers. Playing as one of your favorite 28 characters from the series, you will master their special attacks, Bankai transformations and Zanpaku-to as you battle a wide variety of opponents in a twisting storyline filled with surprises.</description>
+    <year>2006</year>
+    <manufacturer>SEGA</manufacturer>
+    <rom name="Bleach - The Blade of Fate.nds" size="134217728" />
+  </game>
+  <game name="Pokémon Black Version">
+    <description>A NEW WORLD FILLED WITH NEVER-BEFORE-SEEN POKÉMON!&#xD;
+What are the true motives of Team Plasma and the mysterious N? What is the secret of the Legendary Pokémon? Adventure across the Unova region and discover all-new Pokémon!&#xD;
+&#xD;
+The game changes with the seasons!&#xD;
+&#xD;
+New battle strategies and moves!&#xD;
+&#xD;
+This is Pokémon Black Version. The types and likelihood of Pokémon that will appear differ from Pokémon White Version. This game can communicate, battle, and trade only with the various language versions of Pokémon Black Version and Pokémon White Version. After completing the main story, you can communicate with Pokémon Diamond, Pearl, Platinum, HeartGold, and SoulSilver Versions (English-language versions only) to transfer Pokémon to this game. Pokémon transferred in this way cannot be sent back. This game is not compatible with the Pokéwalker accessory. Basic reading ability is needed to fully enjoy this game.</description>
+    <year>2011</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Pokemon - Black Version.nds" size="268435456" />
+  </game>
+  <game name="SolatoRobo : Red the Hunter">
+    <description>Get ready to suspend reality and be brought into a world of floating islands where personal robots are a necessity and pirates and vicious monsters roam the skies. You'll see many dogs and cats along the way, but don't expect your furry friends to be on all fours – they're anthropomorphs. With his cigarette-like bone sticking out of his mouth, Red Savarin, an overconfident teenager, and his specialized robot Dahak have made a name for themselves by taking on odd jobs. Red's curiosity gets the best of him when he comes across a mysterious medallion. Ruh-oh, strange artifacts? This can't be going anywhere good. But before Red runs off with the medallion, he comes across Elh, a sullen, enigmatic creature who shares an unknown link with the medallion for Red to uncover.</description>
+    <year>2010</year>
+    <manufacturer>Bandai Namco</manufacturer>
+    <rom name="Solatorobo - Red the Hunter.nds" size="67108864" />
+  </game>
+  <game name="Rune Factory 3 : A Fantasy Harvest Moon">
+    <description>In Rune Factory 3 the player, Micah by default, is an amnesiac who wanders into the town of Sharance and is discovered by a girl named Shara. Micah is a half human, half monster who can shift between human and wooly forms. 
+
+Like in the other Rune Factory games, the gameplay is a mix of the farming found in the Harvest Moon series and battling. The player must grow and maintain crops and build up their home, and there are also dungeons to battle and befriend monsters in. The stamina of your character still depends on the meter of rune points, and once it is depleted it will start draining the meter of health points. 
+
+New features this time around include dynamic schedules for NPCs, the ability for NPC villagers to accompany players into dungeons and multiplayer with the ability to play dungeons with up to two other players.</description>
+    <year>2010</year>
+    <manufacturer>Natsume</manufacturer>
+    <rom name="Rune Factory 3 - A Fantasy Harvest Moon.nds" size="134217728" />
+  </game>
+  <game name="Rayman DS">
+    <description>The character with no arms and no legs makes his debut on the Nintendo DS. Rayman must defeat the pirates who have enslaved his world. As Rayman, you'll travel through magical worlds where you can explore waterfalls, sea caves, and pirate hideouts. Master Rayman's special moves to progress through each challenging level. The DS's bottom screen let you monitor your progress, track your lums, and keep an eye on Rayman's health.</description>
+    <year>2005</year>
+    <manufacturer>Ubisoft</manufacturer>
+    <rom name="Rayman DS.nds" size="33554432" />
+  </game>
+  <game name="Space Invaders Extreme">
+    <description>The pixelated aliens are back to celebrate their 30th anniversary!
+
+Taking a cue from other recent arcade classic updates, Space Invaders Extreme takes the gameplay of the 1978 classic, and reinvents it, giving power-up blasters, boss aliens, and an electronic soundtrack that plays in sync with the onscreen action.
+
+Basic gameplay remains the same: Players guide a ground based cannon either left or right, blasting an oncoming fleet of invaders before they reach the ground.  The main objective is to get as many points as possible before running out of lives.
+
+Space Invaders Extreme introduces new elements, such as invader fleets that break pattern from their left to right descent, boss aliens that require several hits to destroy, power-ups that enhance the cannon, allowing the player to wipe out multiple invaders at once, while racking up combos.
+
+Wi-Fi play is also possible, allowing player to team up cooperatively, or compete against the other.  The Nintendo DS version also has a feature for online ranking.</description>
+    <year>2008</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="Space Invaders Extreme.nds" size="67108864" />
+  </game>
+  <game name="Dragon Quest IX - Sentinels of the Starry Skies">
+    <description>In Dragon Quest IX: Sentinels of the Starry Skies, players begin their adventure as a city guardian who is sent to retrieve a sacred trees fruits, which have the power to grant wishes. Players travel the world, conquer fearsome monsters and unravel an epic storyline. During their journey, players will encounter mighty opponents in fast-paced battles, and also interact with a colorful cast of characters.</description>
+    <year>2010</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="Dragon Quest IX - Sentinels of the Starry Skies.nds" size="268435456" />
+  </game>
+  <game name="SaGa 3 Jikû no Hasha : Shadow or Light">
+    <description>A DS remake of Final Fantasy Legend III tells the story of a great flood which destroys cities in the past, present and future. As you control a party of 4, with a choice of human and mutant classes, and travel back and forth through time collecting pieces of the great ship Talon so as to defeat the enemy that has flooded the lands.
+		  nn		  The inclusion of a time travel storyline means that whatever you do in one time frame can have an affect on what happens in another time. Other major changes compared to the original 2 in the series are the ability to mutate your characters further and a change to the upgrade system. Items picked up after battle can be attached to your mutants or humans to turn them into monsters or robots, increasing your parties power and abilities. And although the original system of obtaning experience points after every battle has been removed, its replacement allows you to choose which magic stone each character can use, so they learn that specific magic type and never lose it.</description>
+    <year>2011</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="SaGa 3 - Champions of Time and Space - Shadow or Light.nds" size="123213056" />
+  </game>
+  <game name="Etrian Odyssey II - Heroes of Lagaard">
+    <description>In the Grand Duchy of High Lagaard, it is said that the Duke is descended from inhabitants of a castle in the sky. When an unforeseen crisis befalls the nation, it is decreed that the first explorer to retrieve the Grail of Kings from that mythical floating palace will be rewarded with wealth and fame beyond imagining. Enter the central city of Lagaard and begin your journey to the clouds!</description>
+    <year>2008</year>
+    <manufacturer>Atlus</manufacturer>
+    <rom name="Etrian Odyssey II.nds" size="33554432" />
+  </game>
+  <game name="Dragon Quest V: Hand of the Heavenly Bride">
+    <description>The legend of Zenithia continues!&#xD;
+&#xD;
+What begins as an innocent voyage of a boy traveling alongside his father develops into an eye-opening adventure that transcends generations. You - a hero in the making - determine your own path, choose your own wife and befriend a wagonload of quirky monsters along the way.</description>
+    <year>2009</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="Dragon Quest V - Hand of the Heavenly Bride.nds" size="134217728" />
+  </game>
+  <game name="Dragon Quest VI : Realms of Revelation">
+    <description>Coming to North America for the first time, Dragon Quest VI: Realms of Revelation for Nintendo DS brings the classic console title into the handheld scene. Explore two parallel worlds while distinguishing reality from illusion and seeking to discover the true meaning of your very existence.</description>
+    <year>2011</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="Dragon Quest VI - Realms of Revelation.nds" size="134217728" />
+  </game>
+  <game name="Puyo Puyo 7">
+    <description>It's a rainy day at a typical Japanese classroom - only that it's raining rainbow-colored jellies! Math wiz Ringo Andou is scared to death of this strange situation, until she is schooled in the ways of Puyo by the familiar face of Arle Nadja. When Arle suffers a mysterious headache and disappears, Ringo sets out on a mission to stop the ongoing flood of Puyo. But the plot thickens as Ringo uncovers plot after diabolical plot and realizes the very existence of mankind is at stake.</description>
+    <year>2009</year>
+    <manufacturer>SEGA</manufacturer>
+    <rom name="Puyo Puyo 7.nds" size="53480032" />
+  </game>
+  <game name="Pro Evolution Soccer 2008">
+    <description>PES 2008 features a brand new intelligence system, called Teamvision, that adapts and reacts to players own gameplay styles to ensure that the computer controlled opponents are always challenging and forcing the player to think and chance their style of play to avoid being out-thought by the game. It learns counter attacks that target your weaknesses and look to exploit any repetitive tactics players use. Defenders react better to danger, closing down the ball and charging at shots and the goalkeepers hold shots that are closer to them as well. Teammates make more intelligent runs into space and the close control has been sharpened to ensure quick and fluid passing and speedy attacks can be built. The next gen versions also feature extensive edit modes so players can completely customise their PES 2008 experience.</description>
+    <year>2007</year>
+    <manufacturer>Konami</manufacturer>
+    <rom name="Pro Evolution Soccer 2008.nds" size="134217728" />
+  </game>
+  <game name="Jump Ultimate Stars">
+    <description>Jump Ultimate Stars is more or less an expanded version of the original game, Jump Super Stars. It features the same Super Smash Bros.-style fighting gameplay with a plethora of licensed manga characters, bringing in a wide variety of new franchises and characters. The roster has been expanded to more than 300 characters from 41 different manga titles. There is also Nintendo Wi-Fi Connection support, making global internet play a possibility.
+
+Generally, the game is structured the same as the previous title. The player sets up decks made up of the three types of panels, which can be used on the fly with the touchscreen. There is a story mode, versus modes, several single-player modes, as well as a quiz mode and information archives and story synopses for each series. The method of obtaining new panels has changed, however: each character has a progress tree, and successful battles earn gems which can be spent to power up different characters.
+
+The complete list of series represented is: Eyeshield 21, I''s, Ichigo 100%, Katekyo Hitman Reborn!, Captain Tsubasa, Gintama, Kinnikuman, Kochi Kame, Cobra, Sakigake!! Otoko Juku, Jigoku Sensei Nube, Shaman King, Jungle no Tar-chan, JoJo's Bizarre Adventure, Slam Dunk, Saint Seiya, Taizo Mote Ou Saga, D.Gray-man, Death Note, The Prince of Tennis, Dr. Slump, Tottemo! Luckyman, Dragon Ball, Naruto, Ninku, Hunter x Hunter, Pyuu to Fuku! Jaguar, Buso Renkin, Black Cat, Bleach, Hoshin Engi, Fist of the North Star, Bobobo-bo Bo-bobo, Majin Tantei Nogami Neuro, Midori no Makibao, Muhyo to Rouji no Mahoritsu Soudan Jimusou, Yu-Gi-Oh, Yu Yu Hakusho, Rurouni Kenshin, Rokudenashi Blues, and One Piece</description>
+    <year>2006</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Jump Ultimate Stars.nds" size="65942936" />
+  </game>
+  <game name="Pokemon Mystery Dungeon : Blue Rescue Team">
+    <description>And if that's not enough of a dilemma, you've woken up one day to discover that you've mysteriously transformed into a PokÃ©mon yourself!</description>
+    <year>2006</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Pokemon Mystery Dungeon - Blue Rescue Team.nds" size="33554432" />
+  </game>
+  <game name="Monster Tale">
+    <description>It follows the story of a young girl, named Ellie, and her adventures in Monster World with her monster companion, Chomp. Together they must stop the evil Kid-Kings and return Monster World to its rightful inhabitants, the monsters and also find a way for Ellie to return home.</description>
+    <year>2011</year>
+    <manufacturer>Majesco</manufacturer>
+    <rom name="Monster Tale.nds" size="67108864" />
+  </game>
+  <game name="Radiant Historia">
+    <description>In the midst of an unending war for dominance between two super-powers, Special Intelligence Agent Stocke is assigned to a routine escort mission that goes horribly awry...</description>
+    <year>2011</year>
+    <manufacturer>Atlus</manufacturer>
+    <rom name="Radiant Historia.nds" size="134217728" />
+  </game>
+  <game name="Harvest Moon DS - Grand Bazaar">
+    <description>Zephyr Town's bazaar was once the grandest in the world, drawing customers and peddlers from all four corners of the Earth. These days, though, the bazaar has more tumbleweeds than customers. It's up to the player to turn its fortunes around! They'll raise animals, harvest crops, craft rare delicacies, and then sell their wares at their very own shop. If players can bring prosperity back to Zephyr town, its bazaar will thrive once again, packed with exotic wares that they can purchase to expand their farm!</description>
+    <year>2008</year>
+    <manufacturer>Natsume</manufacturer>
+    <rom name="Harvest Moon DS - Grand Bazaar.nds" size="134217728" />
+  </game>
+  <game name="Pokémon White Version">
+    <description>A NEW WORLD FILLED WITH NEVER-BEFORE-SEEN POKÉMON!&#xD;
+What are the true motives of Team Plasma and the mysterious N? What is the secret of the Legendary Pokémon? Adventure across the Unova region and discover all-new Pokémon!&#xD;
+&#xD;
+The game changes with the seasons!&#xD;
+&#xD;
+New battle strategies and moves!&#xD;
+&#xD;
+This is Pokémon White Version. The types and likelihood of Pokémon that will appear differ from Pokémon Black Version. This game can communicate, battle, and trade only with the various language versions of Pokémon Black Version and Pokémon White Version. After completing the main story, you can communicate with Pokémon Diamond, Pearl, Platinum, HeartGold, and SoulSilver Versions (English-language versions only) to transfer Pokémon to this game. Pokémon transferred in this way cannot be sent back. This game is not compatible with the Pokéwalker accessory. Basic reading ability is needed to fully enjoy this game.</description>
+    <year>2011</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Pokemon - White Version.nds" size="268435456" />
+  </game>
+  <game name="Etrian Odyssey III - The Drowned City">
+    <description>The embodiment of adventure and discovery in the purest sense, Etrian Odyssey III transports gamers to a sparkling oceanic paradise filled with atmospheric dungeons to chart and survey, vast watery expanses to sail across, and rumors of a sunken city to investigate. Aspiring explorers are responsible for charting their travels utilizing the intuitive touchscreen map editor, meaning that careless cartography could easily spell doom for a fatigued party trying to escape danger. Powerful challenges demand cunning and strategy: players will assemble and fully customize their party of adventurers from a variety of highly specialized classes and sub-classes. For the patient and prepared, fame and fortune await.</description>
+    <year>2010</year>
+    <manufacturer>Atlus</manufacturer>
+    <rom name="Etrian Odyssey III - The Drowned City.nds" size="67108864" />
+  </game>
+  <game name="Golden Sun : Dark Dawn">
+    <description>After going dark six years ago, 2010 will see a new dawn. Golden Sun DS updates the popular portable Golden Sun role-playing series with an impressive graphical style. This installment follows the story of the previous heroes' descendants and immerses players into the magic of its adventure by pushing the boundaries of intuitive touch-screen controls.</description>
+    <year>2010</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Golden Sun - Dark Dawn.nds" size="268435456" />
+  </game>
+  <game name="Tony Hawk's Downhill Jam">
+    <description>In Tony Hawk’s Downhill Jam, Tony travels to 6 far away locations to challenge each venue’s top downhill racer in a quest to add them to the team. The goal is to make it to the bottom of the hill with the best time! You will also be asked to complete other challenges as well.
+
+The player can trick and combo like any other Tony hawk game while racing down the high at high speeds, all wrapped in detailed cell shaded graphics. The player can also use the touch screen to perform special moves and to see a map of the course.
+
+The user has a vast array of options to create their own male or female skater. Users can also create their own board logos, graffiti tags and record their voice to play back during the game.
+
+The DS version supports up to 4-player Wi-Fi internet and local wireless play. There are over 20 online game modes to choose from. The game also supports voice chat with people on your friends list. This game also has a community website (ds.downhill-jam.com) where users can upload their high scores, bests runs and chat with other skaters.</description>
+    <year>2006</year>
+    <manufacturer>Activision</manufacturer>
+    <rom name="Tony Hawk's Downhill Jam.nds" size="67108864" />
+  </game>
+  <game name="Phoenix Wright - Ace Attorney - Trials and Tribula">
+    <description>Phoenix Wright is back as the third game in the popular Ace Attorney hand-held franchise comes to the WiiWare service. As Phoenix Wright, you'll play through five shocking new cases in first-person perspective. The game features two unique modes of play. In Investigations Mode you'll survey crime scenes, interview witnesses and gather evidence. You'll then present findings, listen to testimonials and examine witnesses in Court Mode. Trials AND Tribulations also includes the "Psyche-Lock" feature that allows Phoenix to use a line of questioning to reveal inconsistencies in witness testimony.</description>
+    <year>2007</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="Phoenix Wright - Ace Attorney - Trials and Tribulations.nds" size="33554432" />
+  </game>
+  <game name="Blue Dragon - Awakened Shadow">
+    <description>Blue Dragon: Awakened Shadow is a role-playing game for Nintendo DS. Oriented towards multiplayer, this game invites you to adventure into the world of Neo Jibral in the company of the heroes of the series. At the start of the adventure, you'll be able to create your own character from head to toe and control the famous shadows with multiple powers.</description>
+    <year>2010</year>
+    <manufacturer>Mistwalker</manufacturer>
+    <rom name="Blue Dragon - Awakened Shadow.nds" size="134217728" />
+  </game>
+  <game name="Advance Wars: Days of Ruin">
+    <description>Days of Ruin takes place in an entirely new world where a large-scale meteor shower triggered massive global destruction that eradicated 90 percent of the population. After the catastrophe, the survivors have formed together into militaristic bands that are warring over the last remaining scraps of civilization. You'll take control of Will, a young military cadet (whose hair is admittedly just a little spiky) who quickly becomes embroiled in the conflict at the outset of the game.</description>
+    <year>2008</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Advance Wars - Days of Ruin.nds" size="67108864" />
+  </game>
+  <game name="Dokapon Journey! Nakayoku Kenka Shite">
+    <description>The Kingdom of Dokapon is in peril! Monsters have invaded, and the King has offered his crown and his daughter's hand in marriage to anyone who can save the land! Prepare to take down your friends or face off against the Nintendo DS in this race to save the Kingdom and win the throne!</description>
+    <year>2009</year>
+    <manufacturer>Atlus</manufacturer>
+    <rom name="Dokapon Journey.nds" size="16777216" />
+  </game>
+  <game name="Ace Attorney Investigations : Miles Edgeworth">
+    <description>Ace Attorney Investigations: Miles Edgeworth is the fifth game in the Ace Attorney series. It is an interquel set between Phoenix Wright: Ace Attorney Trials and Tribulations and Apollo Justice: Ace Attorney.&#xD;
+This game is a standard "point and click" adventure, with the player controlling Edgeworth's movements and what he interacts with. For each case, the goal is to collect evidence to determine who the perpetrator is, how the crime was committed and their motive. This is presented as a combination of a third-person view showing the characters at the crime scene and through animated close-up images of the characters, annotated by text dialog. In some cases, still images are used to highlight dramatic scenes.</description>
+    <year>2010</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="Ace Attorney Investigations - Miles Edgeworth.nds" size="67108864" />
+  </game>
+  <game name="Mega Man ZX">
+    <description>Many years after the events in the Mega Man Zero series, humans and Reploids (humanoid robots) have at last found peace.  Two humans, Vent and Aile, work for a delivery company called Giro Express.  After being ambushed during a delivery, they come in contact with something called 'biometal', which transforms them into the Maverick Hunter, X.  Using their new powers, they decide to work for a group called "The Guardians", who protect civilians from Maverick attacks.
+
+Mega Man ZX is a side scrolling platformer for the Nintendo DS.  While the gameplay is similar to the Mega Man X series, in that you find powerups to increase your health meter, gain subtanks to store surplus energy when needed, and gain new abilities such as swimming and flight through acquiring boss powers, the art style is more similar to the Mega Man Zero series of games.
+
+As players progress through the game, they gain the power of different types of "biometal", which gives them robotic weaponry and abilities.  Different situations require different biometal suits, and sometimes (such as in civilian areas), it's best to return to your human form so that you can make your way through areas without being hassled.  New models of biometal can be acquired from boss enemies.  While you can hit their weak spots for more damage, it's actually beneficial not to, as the more damage you do to the weak spot results in more repairs that you need to make to the biometal later.</description>
+    <year>2006</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="Mega Man ZX.nds" size="67108864" />
+  </game>
+  <game name="Shin Megami Tensei - Devil Survivor 2">
+    <description>When a new website that shows the manner of people's deaths in advance makes the rounds amongst Japanese high schoolers, a trio of students is shocked to witness their own deaths in a terrible subway accident just minutes away. They narrowly escape the carnage, only to find themselves in a worse situation--facing otherworldly demons. Desperate to survive, they fend off the demons and flee, but the destruction at the station is only the beginning...</description>
+    <year>2013</year>
+    <manufacturer>Atlus</manufacturer>
+    <rom name="Shin Megami Tensei - Devil Survivor 2.nds" size="134217728" />
+  </game>
+  <game name="Mario Kart DS">
+    <description>Mario Kart DS is the continuation of the long running racing game series that began on the Super Nintendo. It features 16 new tracks as well as 16 tracks from the previous 4 games, with each set split up into the Nitro and Retro Grand Prix respectively. Eight racers are initially available, each with two go-karts to choose from. A number of characters and additional karts are also available to unlock. New items have been added to the arsenal, including a Blooper squid that squirts ink onto the screens of other players and a Bullet Bill power up that transforms the player into a giant, fast-travelling bullet on autopilot.</description>
+    <year>2005</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Mario Kart DS.nds" size="33554432" />
+  </game>
+  <game name="Shepherd's Crossing 2 Ds">
+    <description>Farm crops, raise animals, and meet with unique people as you set out on a free and easy country adventure - with Brammie the duck by your side.&#xD;
+&#xD;
+Enjoy a more realistic farm experience, including raising animals for food. Run out of provisions and both you and your animals may starve.&#xD;
+&#xD;
+With more than 25 kinds of animals to raise and a generous selection of fruits and veggies to grow, how you farm is up to you. Work efficiently to save up money and supplies.&#xD;
+&#xD;
+Your interactions with your neighbors - dining with them, inviting them over - affect the way your farm grows and develops. It'll take a lot more time and effort before you can tie the knot!</description>
+    <manufacturer>Graffiti Entertainment</manufacturer>
+    <rom name="Shepherd's Crossing 2 DS.nds" size="8388608" />
+  </game>
+  <game name="New Super Mario Bros.">
+    <description>In an all new 2D side-scrolling adventure, Mario and Luigi return after nearly fifteen years. The first traditional Mario Bros. game since Super Mario World.&#xD;
+&#xD;
+The character models are rendered in real time 3D, allowing for a far greater number of moves ever before seen in a Mario Bros. title. Also as the game is on DS, the touch screen allows players to store an additional power-up and view the distance still to go in a level.</description>
+    <year>2006</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="New Super Mario Bros..nds" size="33554432" />
+  </game>
+  <game name="Game &amp; Watch Collection">
+    <description>Game &amp; Watch Collection is a compilation cartridge featuring three of Nintendo's Multi-Screen Game &amp; Watch games.  Not available for purchase, this game could only be obtained through the customer loyalty program, Club Nintendo.  The included games are:
+
+Oil Panic: Oil is dripping from the ceiling!  Catch the oil in your bucket, then tip it out the window to your friend holding the oil barrel.  Don't spill any oil!
+
+Donkey Kong: A giant ape has kidnapped your girlfriend!  Climb to the top of the construction site to rescue her.  Dodge barrels as you climb, then pull out the girder's pins to defeat Donkey Kong.
+
+Green House: Look after the four plants in your green house.  Spray any bugs with your bug spray, and don't forget about the spiders on the lower levels!
+
+Each Game &amp; Watch game can function as a clock by using the internal clock of the Nintendo DS.  An alarm can also be set through the game's main menu.</description>
+    <year>2006</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Game &amp; Watch Collection.nds" size="8388608" />
+  </game>
+  <game name="LEGO Star Wars : The Complete Saga">
+    <description>From the Trade Federation's "negotiations" with Obi-Wan Kenobi and Qui-Gon Jinn in The Phantom Menace to the space battle above Endor in Return of the Jedi, The Complete Saga allows players to kick some brick through 36 Story Mode levels, including Episode II's newly added high-speed pursuit of bounty hunter Zam Wessell. Traveller's Tales has revamped levels from the original LEGO Star Wars to match the gameplay evolutions found in LEGO Star Wars II, and Prequel Trilogy characters can now be mixed and matched with those from the Original Trilogy - more than 160 in all.</description>
+    <year>2007</year>
+    <manufacturer>Travellers Tales</manufacturer>
+    <rom name="LEGO Star Wars - The Complete Saga.nds" size="67108864" />
+  </game>
+  <game name="Puyo Pop Fever">
+    <description>Puyo Pop Fever is a puzzle game of the falling-block variety, the goal of which is to clear your blocks (Puyos) by combining four or more of the same color, which will then vanish. This will produce Nuisance Puyos. These colorless Puyos will fall onto your opponents screen, thus blocking chains and combos they could create. These pesky Puyos can only be exterminated by removing neighboring Puyos.&#xD;
+When an opponent sends Nuisance Puyos to your screen you can try to "offset" by clearing your own Puyos and limiting the number that would fall on your screen. This will also increase your Fever Meter. When this meter fills you will be given a set of prearranged Puyos with which you can wrack up giant combos and send tons of Nuisance Puyos to your opponent. When any player's field becomes so full that they can no longer drop Puyos they lose the game.</description>
+    <year>2005</year>
+    <manufacturer>SEGA</manufacturer>
+    <rom name="Puyo Pop Fever.nds" size="33554432" />
+  </game>
+  <game name="Orcs &amp; Elves">
+    <description>Orcs &amp; Elves is a turn-based role-playing game based on improved DOOM RPG engine. The story follows an elf named Elli who, along with a talking magic wand Ellon, heads to the depths of a devastated dwarven citadel to find out what happened there, battling foes of many kinds, finding mysterious items and meeting various people.
+
+The game uses a first person perspective and dungeons are grid-based, similar to the Dungeon Master and Eye of the Beholder series; the player can only move between squares, forward, backward, strafe left or right, turn in 90 degree increments. Enemies and dungeon features are drawn with sprite graphics. There are some 3D objects in the dungeons as well, and the game employs some 3D camera movements in the cutscenes. The dungeons mostly consist of one level, though it is possible to move between different parts of the dungeons and revisit the previous dungeons as necessary.</description>
+    <year>2007</year>
+    <manufacturer>id Software</manufacturer>
+    <rom name="Orcs &amp; Elves.nds" size="16777216" />
+  </game>
+  <game name="Picross DS">
+    <description>Picross DS is a touch screen-based puzzle game for the Nintendo DS.  By following the numbers on the left and top of the game grid, players can uncover the picture hidden away.  The rules are simple - if there is one number on a line, say, 10, then you know that there are ten squares in a row that must be chipped away on that line.  If the numbers read something like 2 7, then you must chip away two squares somewhere in the row, separated by at least one empty square, and then seven squares to be chipped away.  By applying these rules horizontally and vertically to the grid, you can work out the picture using logic.
+
+There are two methods of control: you can use the Control Pad to move a cursor, the A Button to chip a square, the B Button to mark it, and the X Button to zoom in or out (similar to Nintendo's previous Picross games).  Alternatively, you can use the stylus to play.  In this mode, the Control Pad changes the functions of the stylus.  When you press Up, you'll chip squares, Down will mark them, Left will zoom in and out, while Right allows you to scroll.  The buttons on the right of the DS perform the same functions, which is helpful if you're left-handed.
+
+Picross DS has a variety of different modes:
+
+1.  Picross - This is standard Picross.  Play through easy, medium and difficult puzzles, or learn how to play.  You are penalized with time for any mistakes you make in easy and medium modes.  In difficult, your mistakes are not noted at all.
+
+2.  Daily Picross - Play a quick set of five Picross puzzles, once a day.  Each day, your score is added to a chart, so you can track whether you're improving or getting worse, similar to Brain Age.
+
+3.  My Picross - Design your own Picross puzzles by drawing on the grid.  When you're done, you can play your puzzles, or send them to others.
+
+4.  Competition Picross - Play Picross against others in this mode.  You can choose to use single-cart multiplayer, multi-cart multiplayer, or online play via Nintendo Wi-Fi Connection.
+
+You can also download additional puzzle packs for Picross DS by using Nintendo Wi-Fi Connection, including puzzles from Mario's Picross.</description>
+    <year>2007</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Picross DS.nds" size="33554432" />
+  </game>
+  <game name="Assassin's Creed II - Discovery">
+    <description>Exclusive to the Nintendo DSi and Nintendo DS systems, discover an untold chapter from the Assassin's Creed II storyline. Follow Ezio as he travels to 15th century Spain to rescue fellow assassins being held under the guise of the Inquisition, only to uncover a Templar plot to sail west and discover the New World.</description>
+    <year>2009</year>
+    <manufacturer>Griptonite Games</manufacturer>
+    <rom name="Assassin's Creed II - Discovery.nds" size="67108864" />
+  </game>
+  <game name="Phoenix Wright - Ace Attorney">
+    <description>Not everyone is innocent until proven guilty! Players star as a defense attorney, who must prove his seemingly guilty client's innocence no matter how dire the circumstances may seem. The game presents twisting storylines and intriguing gameplay in a comical anime style. Players must collect evidence, weed through inconsistent testimonies, and overcome corrupt agendas to ensure that justice prevails.</description>
+    <year>2006</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="Phoenix Wright - Ace Attorney.nds" size="67108864" />
+  </game>
+  <game name="Retro Game Challenge 2">
+    <description>A fan-made translation patch for Indieszero's classic gaming-themed Nintendo DS compilation, Retro Game Challenge 2 (aka Game Center CX: Arino no Chousenjou 2), has surfaced, rendering it fully playable in English for the first time.</description>
+    <year>2009</year>
+    <manufacturer>Bandai Namco</manufacturer>
+    <rom name="Retro Game Challenge 2.nds" size="67108864" />
+  </game>
+  <game name="Marvel Nemesis - Rise of the Imperfects">
+    <description>Marvel Nemesis delivers the definitive Super Hero videogame allowing gamers to play as and against the world's greatest Super Heroes. The game features Super Heroes from the Marvel Universe as well as a new set of characters created through collaboration with EA and top comic book industry talent. EA has called on the talent of top comic book writers and concept artists, such as Jae Lee, for Marvel character and game design as well as renowned artist, Paul Catling, among other industry talents, to create a new family of Super Heroes that will go face to face with an all-star line-up of Marvel characters for the ultimate showdown. Marvel Nemesis: Rise of the Imperfects features more than a dozen fighters in fully interactive and destructible environments. Gamers have full control over the individual characters with each fighter having unique attributes and super powers that are true to their background adding more depth and fighting strategy to the game.</description>
+    <year>2005</year>
+    <manufacturer>Electronic Arts</manufacturer>
+    <rom name="Marvel Nemesis - Rise of the Imperfects.nds" size="67108864" />
+  </game>
+  <game name="Pokemon: HeartGold Version">
+    <description>PREPARE FOR THRILLING NEW ADVENTURES AS LEGENDARY POKÉMON AWAKEN!&#xD;
+Explore the Johto region as you catch, train, and battle with your favorite Pokémon by your side. Reach for the sky--call forth the Legendary Pokémon!&#xD;
+&#xD;
+Enjoy minigames with your trained Pokémon!&#xD;
+&#xD;
+Travel with your favorite Pokémon!&#xD;
+&#xD;
+Take your Pokémon with you! Introducing the Pokéwalker accessory!&#xD;
+The Pokéwalker is a special pedometer only for Pokémon HeartGold and Pokémon SoulSilver Versions. It can communicate with these games using an infrared signal!&#xD;
+By storing a Pokémon in the Pokéwalker, it can earn Experience Points and become friendlier as you walk in real life!&#xD;
+You can catch Pokémon and find items in the Pokéwalker, then transfer them to Pokémon HeartGold Version!</description>
+    <year>2010</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Pokemon - HeartGold Version.nds" size="134217728" />
+  </game>
+  <game name="Space Invaders Extreme 2">
+    <description>Space Invaders Extreme 2 follows in the footsteps of last year's critically acclaimed Space Invaders Extreme, which was regarded by many as the best remake of the original classic. This year the iconic Invaders are back again and this time the action is even more extreme! The game combines the essence of the original game with a stunning alliance of futuristic graphic design and cutting-edge audio, overhauled gameplay and a whole new range of amazing power-ups.</description>
+    <year>2009</year>
+    <manufacturer>Taito</manufacturer>
+    <rom name="Space Invaders Extreme 2.nds" size="67108864" />
+  </game>
+  <game name="Castlevania : Portrait Of Ruin">
+    <description>Take control of two heroes, Jonathan Morris, a vampire killer and his close friend Charlotte Orlean, a girl with tremendous magical ability. Amidst the chaos of World War II, two mysterious sisters emerge, working to resurrect Dracula and David and Charlotte are all that stand in their way.</description>
+    <year>2007</year>
+    <manufacturer>Konami</manufacturer>
+    <rom name="Castlevania - Portrait of Ruin.nds" size="67108864" />
+  </game>
+  <game name="Pokemon - Pearl Version">
+    <description>This is the Pearl version of Pokémon. The differences between the Diamond and Pearl versions include how often and which types of Pokémon appear. This game can communicate with the Diamond version using Nintendo Wi-Fi Connection and DS Wireless Communications. This game can also be connected to the Ruby, Sapphire, FireRed, LeafGreen, and Emerald versions of Pokémon using the Dual Slot feature of Nintendo DS. This game CANNOT be connected to Game Boy, N64, or GameCube versions of Pokémon. It is also not compatible with any Pokémon Battle-e Cards.</description>
+    <year>2007</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Pokemon - Pearl Version.nds" size="67108864" />
+  </game>
+  <game name="Sonic Rush">
+    <description>Sonic's first outing on the Nintendo DS system features action in two screens with a story featuring Sonic getting involved in another one of Dr. Eggman's evil plots. A mysterious Emerald is left behind by Dr. Eggman, but an unfamiliar character makes off with it before Sonic can investigate! Sonic gives chase, and thus the adventure begins. Playable characters in the game are Sonic the Hedgehog and new character Blaze the Cat. Appearances from other characters include Miles "Tails" Prower, Amy Rose, Cream the Rabbit, and Knuckles the Echidna. Each playable character has four moves as well as a variety of "Trick actions" which, when performed, will raise your Tension Gauge. Filling the gauge allows you to do a Boost which will propel Sonic or Blaze at a high speed across the ground or along the air to defeat enemies or move certain blocks.There are 14 levels that play out over both the top and bottom DS screens, giving you a bigger view of your surroundings. You will race through the levels collecting rings, using "gimmicks" such as bungee ropes and giant waterwheels, performing tricks, collecting power-ups, and defeating enemies. When you beat each level, or "act", you will face a Boss Act which is played out over the top screen in 3D. In addition to these levels, there are Special Stages. These are played on the touch screen, and unlike the rest of the game, feature control with the stylus. Upon completion of the game, Time Attack mode will be available. In it, you play levels/boss acts for the best time record. Battle Play is a multiplayer mode in which two players compete to finish a level first. It can be played over single-card download or multi-card wireless.</description>
+    <year>2005</year>
+    <manufacturer>SEGA</manufacturer>
+    <rom name="Sonic Rush.nds" size="67108864" />
+  </game>
+  <game name="Luminous Arc">
+    <description>Luminous Arc is a strategy role-playing game. 
+
+The story is set in a world in which there are two groups in apparent opposition: the Luminous church, and the witches. 
+
+During the course of the story, the player controls a party made up of orphans who have been raised by the Luminous church. They are called the Garden Children, and are tasked with the condemnation of witches. However, soon after the beginning of the story, it becomes evident that things are not as clear-cut as they initially seem.
+
+Structurally, the party moves from area to area, and the plot advances as the player progresses through battles. Equipment may be powered up through the use of a vitae forging system. Also, relationships with characters may be strengthened during post-fight "intermissions," leading to some bonuses in future battles.</description>
+    <year>2007</year>
+    <manufacturer>Marvelous Interactive</manufacturer>
+    <rom name="Luminous Arc.nds" size="134217728" />
+  </game>
+  <game name="Mega Man Battle Network 5 : Double Team DS">
+    <description>A mysterious Navi force has taken control of the internet! Now it's up to Lan and his friends to infiltrate the Dark Chip Factory in the Nebula Headquarters and destroy the Dark Chip production system. The survival of cyberspace hangs in the balance! Play both Team Protoman and Team Colonel versions! Powered up with DS exclusive features! Battle with Navis from both teams! Cheer Mega Man on with built-in mic and help him win battles! Access your PET during gameplay and view cyber maps using the dual screens! Head-to-head battles with up to 8 players using Tournament style wireless play!</description>
+    <year>2005</year>
+    <manufacturer>Capcom</manufacturer>
+    <rom name="Mega Man Battle Network 5 - Double Team DS.nds" size="67108864" />
+  </game>
+  <game name="Disgaea DS">
+    <description>Disgaea DS is a port of the PSP version.  While it still has the same story from its predecessor, it features some tweaked gameplay and interfaces that utilizes the DS' dual-screen and stylus pen.
+
+It features new objects that have been introduced such as Geo Cubes that enchances players abilities as well as summon monsters that can attack opponents.  Demon Gadgets are also present which are randomly scattered throughout battlefields that can level up an unit as much as 30 levels at once.  Classic characters from the original Disgaea and its sequel can also be unlocked along with bosses that can be unlocked and used including Overlord Zetta.
+
+There is also multiplayer capabilities that can allow two human players to play co-op.</description>
+    <year>2008</year>
+    <manufacturer>Nippon Ichi Software</manufacturer>
+    <rom name="Disgaea DS.nds" size="67108864" />
+  </game>
+  <game name="Top Spin 3">
+    <description>Top Spin 3 includes more than 25 of the world's top tennis superstars including Roger Federer, Andy Roddick, Maria Sharapova, James Blake, and many others. With all-new, action-packed features including signature player animations and expressions, weather changes, situation-specific behaviors, along with revamped audio with enhanced crowd reaction, Top Spin 3 serves up a realistic and exciting tennis video game experience.</description>
+    <year>2008</year>
+    <manufacturer>PAM Development</manufacturer>
+    <rom name="Top Spin 3.nds" size="67108864" />
+  </game>
+  <game name="LEGO Harry Potter - Years 1-4">
+    <description>LEGO Harry Potter: Years 1-4 will give gamers the chance to experience the magic and adventure of Harry Potter in a uniquely LEGO way. Playing as Harry Potter, Ron Weasley and Hermione Granger, as well as more than 100 other favorite characters, gamers will have the opportunity to attend lessons, cast spells, mix potions, fly on broomsticks and complete tasks to earn rewards. Throughout the game, players will also have the freedom to explore iconic settings from the wizarding world including Hogwarts castle, Diagon Alley, the Forbidden Forest and the village of Hogsmeade.</description>
+    <year>2010</year>
+    <manufacturer>TT Games</manufacturer>
+    <rom name="LEGO Harry Potter - Years 1-4.nds" size="134217728" />
+  </game>
+  <game name="Need for Speed - Most Wanted">
+    <description>Need for Speed: Most Wanted is a racing game belonging to Need for Speed series. In the Career mode, you have to beat the 15 blacklisters in order to become the Most Wanted. For unlocking the bosses' circuits, you have to win points by winning races, avoi</description>
+    <year>2005</year>
+    <manufacturer>Electronic Arts</manufacturer>
+    <rom name="Need for Speed - Most Wanted.nds" size="33554432" />
+  </game>
+  <game name="Nostalgeo no Kaze">
+    <description>Set in an alternate-reality version of 19th-century Earth, Nostalgia casts you as Eddie, a headstrong Londoner who amasses a group of memorable companions to traverse the world in his steampunk-inspired zeppelin. As you navigate the open skies, you'll explore mysterious foreign locales, slay all manner of fantastical enemies, complete a variety of thrilling quests, and ultimately, save the world from unfathomable evil.</description>
+    <year>2009</year>
+    <manufacturer>Ignition Entertainment</manufacturer>
+    <rom name="Nostalgia.nds" size="134217728" />
+  </game>
+  <game name="Sonic Rush Adventure">
+    <description>While flying in their plane across the ocean, looking for a strange energy source, Sonic and Tails' plane is struck by lightning!  They plunge into the murky depths of the ocean...and awaken on a small island.  A local, a raccoon named Marine, informs them that they are on Southern Island.  With Marine and Tails' help, Sonic sets about to explore the nearby islands.
+
+Sonic Rush Adventure is a side-scrolling adventure game, and the sequel to Sonic Rush.  Sonic's goal through these platform levels is to zip through as quickly as possible.  By pressing the B Button while in the air, Sonic can increase his Tension Gauge by performing aerial tricks. Pressing Y uses a Super Boost, which will allow him to plow through anything in his path at amazing speed, but drains the Tension Gauge.
+
+When Sonic reaches the treasure chest at the end of each level, he will be given a material that can be used for construction of ships and other devices.  At first, Sonic is stranded on Southern Island, but after the construction of the waterbike, he can travel to other islands and explore them.  Similar to The Legend of Zelda: Phantom Hourglass, the player must plot a path to the next island using the stylus, and then provide limited control over the ship as it travels.  However, Sonic has different ships, each of which are notably different from Link's steamboat.
+
+Sonic Rush Adventure also features a Battle Mode, where players can either play locally with a friend, or across the world through Nintendo Wi-Fi Connection.  Players can take each other on in a one-on-one race through various levels as each player aims to get to the end first.</description>
+    <year>2007</year>
+    <manufacturer>SEGA</manufacturer>
+    <rom name="Sonic Rush Adventure.nds" size="67108864" />
+  </game>
+  <game name="Metaru Makkusu Surī">
+    <description>The protagonist was picked up and revived by mad scientist Dr. Minch. However he suffered from severe memory lost and cannot remember anything about himself. Therefore, the protagonist decided to travel around the world as a bounty hunter, in order to retrieve his memories and find out his true identity</description>
+    <year>2010</year>
+    <manufacturer>Kadokawa Games</manufacturer>
+    <rom name="Metal Max 3.nds" size="67108864" />
+  </game>
+  <game name="Kirby Super Star Ultra">
+    <description>Kirby's back with a bunch of fun adventures!  Explore Dream Land and defeat King Dedede, tame the ferocious Dynablade, explore a huge cave, take part in a gluttonous race, vandalize Meta Knight's ship, the Halberd, explore the entire galaxy, and more!
+
+Kirby Super Star Ultra is an updated remake of Kirby Super Star, a popular SNES game which is broken up into seven main games.  In addition to those previous games, Ultra includes five new games and three new sub-games.  Listed are just some of the new ones:
+
+Revenge of the King: King Dedede wants a rematch!  This game is a toughened up version of Spring Breeze, the opening game.
+
+The Arena: Every boss that Kirby has met throughout the game, one after the other!  Try to beat them all!
+
+Meta Knightmare Ultra: Play through the first five games as Meta Knight, with his own special abilities and powers!  Speed is the key!
+
+Kirby Card Swipe: Watch the top screen, and quickly pick the correct card.  Be the first to do it thrice!
+
+Kirby on the Draw: Enemy targets pop up, tap them as they appear.  Don't tap the bombs!
+
+Snack Tracks: Eat all the food on your tracks.  Don't eat the bugs, bombs or rocks!
+
+As with the original, Ultra features a heavily featured multiplayer mode.  All games can be played either co-operatively or competitively.  Spring Breeze can even be played co-operatively if your friend doesn't have a copy of the game!</description>
+    <year>2008</year>
+    <manufacturer>Nintendo</manufacturer>
+    <rom name="Kirby Super Star Ultra.nds" size="134217728" />
+  </game>
+  <game name="Tony Hawk's American Sk8land">
+    <description>The portable addition of Tony Hawk's latest skating craze (American Wasteland) provide an altogether different experience, especially in terms of the visual presentation.
+
+Pushing aside realism, Sk8land goes with a cel-shaded atmosphere, where the same gameplay mechanics of skaing around each park completing objectives and challenges are as addictive as always.
+
+Nintendo DS players will also take Sk8land online through the wi-fi mode, along with touch screen controls. GBA players aren't left behind either, with an updated create-a-park and skater modes and multiplayer to boot.</description>
+    <year>2005</year>
+    <manufacturer>Activision</manufacturer>
+    <rom name="Tony Hawk's American Sk8land.nds" size="67108864" />
+  </game>
+  <game name="Front Mission 1st">
+    <description>The Nintendo DS release of the long running Front Mission series, the story takes place on Huffman Island which is located in the neutral zone between two nations Oceania Community Union (O.C.U.) and the Unified Continental States (U.C.S.).
+
+In the year 2070, a war broke out between the two nations that lasted for two years before finally peace was achieved and the island was split in half, both sides being used for each nations base.  In 2090, however, a U.C.S factory is mysteriously attacked, leading to another conflict.
+
+The player can choose either side to use: they can choose either Royd Clive, leader of the mercenary outfit Canyon Crows for the O.C.U. or Kevin Greenfield, leader of the U.C.S. Special Forces squad Black Hounds fighting against enemy mechs (known as wanzers), tanks and helicopters in a turn-based fashion, using the stylus pen to bring up interface menus  to select units and choosing which enemy units to attack among many other options.
+
+There is also multiplayer capabilities using DS wireless, where players can compete head-to-head, using battlefields filled with wanzers.  Yoshitaka Amano also is involved, responsible for the graphic art for the game and is most notably been involved with the Final Fantasy series.</description>
+    <year>2007</year>
+    <manufacturer>Square Enix</manufacturer>
+    <rom name="Front Mission.nds" size="67108864" />
+  </game>
+</datafile>
